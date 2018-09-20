@@ -1,0 +1,4 @@
+* Introduction to Computer Vision
+
+Solutions for the [[https://classroom.udacity.com/courses/ud810]["Introduction to Computer Vision (ud810)"]] course
+from Udacity.
